@@ -1,6 +1,7 @@
 # AST Assignment \#1: Git and Github.
 ## Team members:
-* \<your name> \<your last name>
-* \<your name> \<your last name>
+* Sahanesh Prakash
+* Suraj Limbu
+* Falk
 
 Git assignment for Advanced Software Technology. 
