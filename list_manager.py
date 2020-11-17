@@ -22,17 +22,20 @@ def reverse_order(list):
 
 def stringfy_list(list):
     '''returns a list with all elements turned into strings'''
-    pass
+    strList = [str(val) for val in list]
+    return strLis
 
 def multiply_list(list, multiple):
     '''returns the list with all elements multipled by the value multiple'''
-    pass
+    list_comprehension = [ x *multiple for x in list]
+    return list_comprehension
 
 def get_highest_value(list):
     '''returns the highest value of the list'''
-    pass
+    maxValue = max(list)
+    return maxValue
 
 def get_lowest_value(list):
     '''returns the lowest value of the list'''
-    pass
+    return min(list)
 
