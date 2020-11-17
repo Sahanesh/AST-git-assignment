@@ -17,7 +17,8 @@ def order_by_decreasing_value(list):
 
 def reverse_order(list):
     '''returns the list in reverse order'''
-    list = (23785)
+    list[::-1]
+    return list
     pass
 
 def stringfy_list(list):
